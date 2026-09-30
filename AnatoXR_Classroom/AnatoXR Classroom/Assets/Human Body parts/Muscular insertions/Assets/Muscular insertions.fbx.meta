@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 4b7be2be028f1924483f78fec6d05950
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Abduction
+    second: {fileID: 2100000, guid: 78a3d255590644645a1dad96cb879e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Adduction
+    second: {fileID: 2100000, guid: 9fcc2d1e5fedd184b8732dca62a63398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Biarticular
+    second: {fileID: 2100000, guid: 5bb92a5611a04ce4fa10ccb75ce2cf5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Depressor
+    second: {fileID: 2100000, guid: d18d7351cc6315f41a8b495aa8141c20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Extension
+    second: {fileID: 2100000, guid: b64235246f3560641ac6e7b90e10cda2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Extension fingers
+    second: {fileID: 2100000, guid: d71b6c48e79474c4a923d8a70254a138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Extension hand-foot
+    second: {fileID: 2100000, guid: 4f5e1239c4864dd4d8b0089f9ea36704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-External rotation
+    second: {fileID: 2100000, guid: 40f53b58d18e65b4888179e5e009618a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Flexion
+    second: {fileID: 2100000, guid: 49cd954ced86e9b458756317e9c533d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Flexion fingers
+    second: {fileID: 2100000, guid: be4f3310effcf824cb82a43d7004d1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Flexion hand_foot
+    second: {fileID: 2100000, guid: a3cdaf8f9942fff4a8ee8721c4e4b42e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Internal rotation
+    second: {fileID: 2100000, guid: 06a30d44ab2638b41bb2b800c9c44f08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Levator
+    second: {fileID: 2100000, guid: 47f106f45414dbf4d8b70ad6d60f5cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: End-Mastication
+    second: {fileID: 2100000, guid: bd97c8a6af0219a4a9d4d30ae716dc16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muscular origin
+    second: {fileID: 2100000, guid: 58ad1199d077f6445900d6e67f0fcaa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin mastication
+    second: {fileID: 2100000, guid: b531e812afc439540b8b9142d4990501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Abduction
+    second: {fileID: 2100000, guid: 31951fd98844c234d99d111167adeb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Adduction
+    second: {fileID: 2100000, guid: 9bd02fce7e91e7a42b47923fa64d452b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Biarticular
+    second: {fileID: 2100000, guid: b7832d6f4670b4e4f8d9d70943d6f1ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Depressor
+    second: {fileID: 2100000, guid: 6187ceb5e893c4343afd34b0fbb4eff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Diaphragm
+    second: {fileID: 2100000, guid: 36740eff0f4ccf646a64926f3bf0aaab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Extension
+    second: {fileID: 2100000, guid: 073f706fa76363f4b9cad5fe57fb6308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Extension fingers
+    second: {fileID: 2100000, guid: 589a33200f6f7a3449c5569aa23c1f48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Extension hand_foot
+    second: {fileID: 2100000, guid: 69ff4e3f638421744ba1ef22521e5486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-External rotation
+    second: {fileID: 2100000, guid: 345207590af93e74885509db71011287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Flexion
+    second: {fileID: 2100000, guid: f3c6d14d8af8f784bbc3cba25c5062b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Flexion fingers
+    second: {fileID: 2100000, guid: eb05cb67936d9f540940d73e1085ad71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Flexion hand_foot
+    second: {fileID: 2100000, guid: af1459f6f22ca6c419a52d1e9dbb91d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Internal rotation
+    second: {fileID: 2100000, guid: dfbfd658ac5f6664f899b943f731795d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Levator
+    second: {fileID: 2100000, guid: c4af7d7d3a6b33a46b125c279a34b68f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Ligament
+    second: {fileID: 2100000, guid: d3e4412fb4627624b8136d20247fefe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Orbicular_Constrictor
+    second: {fileID: 2100000, guid: 9729ad98a178c344b80fed2445e27c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origin-Superficial
+    second: {fileID: 2100000, guid: db86f44eecd236d48a328d66c4e4b595, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

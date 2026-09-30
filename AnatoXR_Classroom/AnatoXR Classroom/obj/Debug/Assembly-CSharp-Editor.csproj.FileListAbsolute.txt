@@ -1,0 +1,10 @@
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\Temp\bin\Debug\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.pdb
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\Temp\bin\Debug\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.pdb
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\obj\Debug\Assembly.1F1299F3.Up2Date
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\nexca\OneDrive\Desktop\PROJECT\PRODUCT\AnatoXR_Classroom\AnatoXR Classroom\obj\Debug\Assembly-CSharp-Editor.pdb
